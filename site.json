@@ -1,0 +1,10 @@
+{
+  "description": "Empowers teenage girls to manage spending wisely through interactive education, reflection, budgeting tools, and a supportive 7-day challenge.",
+  "robots": {
+    "index": false
+  },
+  "accessibility": {
+    "addBypassLinks": false,
+    "ignoreReducedMotion": false
+  }
+}
